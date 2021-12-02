@@ -1,0 +1,257 @@
+{
+    "created_at": "Wed Dec 01 06: 04: 16 +0000 2021",
+    "id": 1465924689323524096,
+    "id_str": "1465924689323524096",
+    "text": "バストファ「マンカスとタガーの軽い皮肉の言い合いがいつの間にか喧嘩に変わり、『年寄りは黙ってい 
+    ろ！』『お前のが年寄りだろうが！』という応酬になっていたが、別にどちらも年寄りではないし、代わりに無関係のガスが切ない顏をしているから２人 
+    共そろそろやめたまえ」", "truncated": False, "entities": {"hashtags": [], "symbols": [], "user_mentions": [], "urls": []
+},
+
+"metadata": {
+    "iso_language_code": "ja",
+    "result_type": "recent"
+},
+"source": "<a href="http: //twittbot.net/" rel="nofollow">twittbot.net</a>", "in_reply_to_status_id": None, "in_reply_to_status_id_str": None, "in_reply_to_user_id": None, "in_reply_to_user_id_str": None, "in_reply_to_screen_name": None, "user": {"id": 1181609621183590401, "id_str": "1181609621183590401", "name": "ＣＡＴＳコピペ改変bot", "screen_name": "DVDbot4", "location": "", "description": "需要があるかも分からない、誰得？なDVD猫のコピペ改変bot／下ネタ・キャラ崩壊・キャラの過去捏造・キャラ同士のあ 
+    だ名呼び・CP要素・腐向けなど、何でも許せる方向け", "url": None, "entities": {"description": {"urls": []
+}
+},
+"protected": False,
+"followers_count": 26,
+"friends_count": 7,
+"listed_count": 3,
+"created_at": "Tue Oct 08 16: 37: 57 +0000 2019",
+"favourites_count": 7,
+"utc_offset": None,
+"time_zone": None,
+"geo_enabled": False,
+"verified": False,
+"statuses_count": 23656,
+"lang": None,
+"contributors_enabled": False,
+"is_translator": False,
+"is_translation_enabled": False,
+"profile_background_color": "000000",
+"profile_background_image_url": "http: //abs.twimg.com/images/themes/theme1/bg.png",
+"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+"profile_background_tile": False,
+"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+"profile_link_color": "1DA1F2",
+"profile_sidebar_border_color": "000000",
+"profile_sidebar_fill_color": "000000",
+"profile_text_color": "000000",
+"profile_use_background_image": False,
+"has_extended_profile": True,
+"default_profile": False,
+"default_profile_image": True,
+"following": None,
+"follow_request_sent": None,
+"notifications": None,
+"translator_type": "none",
+"withheld_in_countries": []
+},
+"geo": None,
+"coordinates": None,
+"place": None,
+"contributors": 
+    None,
+"is_quote_status": False,
+"retweet_count": 0,
+"favorite_count": 0,
+"favorited": False,
+"retweeted": False,
+"lang": "ja"
+}, created_at=datetime.datetime(2021,
+12,
+1,
+6,
+4,
+16, tzinfo=datetime.timezone.utc), id=1465924689323524096, id_str="1465924689323524096", text="バスト 
+    ファ「マンカスとタガーの軽い皮肉の言い合いがいつの間にか喧嘩に変わり、『年寄りは黙っていろ！』『お前のが年寄りだろうが！』という応酬になっ 
+    ていたが、別にどちらも年寄りではないし、代わりに無関係のガスが切ない顏をしているから２人共そろそろやめたまえ」", truncated=False, entities={"hashtags": [], "symbols": [], "user_mentions": [], "urls": []
+}, metadata={
+"iso_language_code": "ja",
+"result_type": "recent"
+}, source="twittbot.net", source_url="http: //twittbot.net/", in_reply_to_status_id=None, in_reply_to_status_id_str=None, in_reply_to_user_id=None, in_reply_to_user_id_str=None, in_reply_to_screen_name=None, author=User(_api=<tweepy.api.API object at 0x0000020B0615F460>, _json={
+"id": 1181609621183590401,
+"id_str": "1181609621183590401",
+"name": "ＣＡＴＳコピペ改変bot",
+"screen_name": "DVDbot4",
+"location": "",
+"description": " 
+    需要があるかも分からない、誰得？なDVD猫のコピペ改変bot／下ネタ・キャラ崩壊・キャラの過去捏造・キャラ同士のあだ名呼び・CP要素・腐向けなど、 
+    何でも許せる方向け", "url": None, "entities": {"description": {"urls": []
+}
+},
+"protected": False,
+"followers_count": 26,
+"friends_count": 7,
+"listed_count": 3,
+"created_at": "Tue Oct 08 16: 37: 57 +0000 2019",
+"favourites_count": 7,
+"utc_offset": None,
+"time_zone": None,
+"geo_enabled": False,
+"verified": False,
+"statuses_count": 23656,
+"lang": None,
+"contributors_enabled": False,
+"is_translator": False,
+"is_translation_enabled": False,
+"profile_background_color": "000000",
+"profile_background_image_url": "http: //abs.twimg.com/images/themes/theme1/bg.png",
+"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+"profile_background_tile": False,
+"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+"profile_link_color": "1DA1F2",
+"profile_sidebar_border_color": "000000",
+"profile_sidebar_fill_color": "000000",
+"profile_text_color": "000000",
+"profile_use_background_image": False,
+"has_extended_profile": True,
+"default_profile": False,
+"default_profile_image": True,
+"following": None,
+"follow_request_sent": None,
+"notifications": None,
+"translator_type": "none",
+"withheld_in_countries": []
+}, id=1181609621183590401, id_str="1181609621183590401", name="ＣＡＴＳコピペ改変bot", screen_name="DVDbot4", location="", description="需要があるかも分からない、誰得？なDVD猫のコピペ改変bot／下ネタ・キャラ崩壊・キャラの過去捏造・キャラ 
+    同士のあだ名呼び・CP要素・腐向けなど、何でも許せる方向け", url=None, entities={"description": {"urls": []
+}
+}, protected=False, followers_count=26, friends_count=7, listed_count=3, created_at=datetime.datetime(2019,
+10,
+8,
+16,
+37,
+57, tzinfo=datetime.timezone.utc), favourites_count=7, utc_offset=None, time_zone=None, geo_enabled=False, verified=False, statuses_count=23656, lang=None, contributors_enabled=False, is_translator=False, is_translation_enabled=False, profile_background_color="000000", profile_background_image_url="http: //abs.twimg.com/images/themes/theme1/bg.png", profile_background_image_url_https="https://abs.twimg.com/images/themes/theme1/bg.png", profile_background_tile=False, profile_image_url="http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", profile_image_url_https="https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", profile_link_color="1DA1F2", profile_sidebar_border_color="000000", profile_sidebar_fill_color="000000", profile_text_color="000000", profile_use_background_image=False, has_extended_profile=True, default_profile=False, default_profile_image=True, following=False, follow_request_sent=None, notifications=None, translator_type="none", withheld_in_countries=[]), user=User(_api=<tweepy.api.API object at 0x0000020B0615F460>, _json={
+"id": 1181609621183590401,
+"id_str": "1181609621183590401",
+"name": "ＣＡＴＳコピペ改変bot",
+"screen_name": "DVDbot4",
+"location": "",
+"description": "需要があるかも分からない、誰得？なDVD猫のコ
+    ピペ改変bot／下ネタ・キャラ崩壊・キャラの過去捏造・キャラ同士のあだ名呼び・CP要素・腐向けなど、何でも許せる方向け", "url": None, "entities": {"description": {"urls": []
+}
+},
+"protected": False,
+"followers_count": 26,
+"friends_count": 7,
+"listed_count": 3,
+"created_at": "Tue Oct 08 16: 37: 57 +0000 2019",
+"favourites_count": 7,
+"utc_offset": None,
+"time_zone": None,
+"geo_enabled": False,
+"verified": False,
+"statuses_count": 23656,
+"lang": None,
+"contributors_enabled": False,
+"is_translator": False,
+"is_translation_enabled": False,
+"profile_background_color": "000000",
+"profile_background_image_url": "http: //abs.twimg.com/images/themes/theme1/bg.png",
+"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+"profile_background_tile": False,
+"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+"profile_link_color": "1DA1F2",
+"profile_sidebar_border_color": "000000",
+"profile_sidebar_fill_color": "000000",
+"profile_text_color": "000000",
+"profile_use_background_image": False,
+"has_extended_profile": True,
+"default_profile": False,
+"default_profile_image": True,
+"following": None,
+"follow_request_sent": None,
+"notifications": None,
+"translator_type": "none",
+"withheld_in_countries": []
+}, 
+    id=1181609621183590401, id_str="1181609621183590401", name="ＣＡＴＳコピペ改変bot", screen_name="DVDbot4", location="", description="需要が
+    あるかも分からない、誰得？なDVD猫のコピペ改変bot／下ネタ・キャラ崩壊・キャラの過去捏造・キャラ同士のあだ名呼び・CP要素・腐向けなど、何でも 
+    許せる方向け", url=None, entities={"description": {"urls": []
+}
+}, protected=False, followers_count=26, friends_count=7, listed_count=3, created_at=datetime.datetime(2019,
+10,
+8,
+16,
+37,
+57, tzinfo=datetime.timezone.utc), favourites_count=7, utc_offset=None, time_zone=None, geo_enabled=False, verified=False, statuses_count=23656, lang=None, contributors_enabled=False, is_translator=False, is_translation_enabled=False, profile_background_color="000000", profile_background_image_url="http: //abs.twimg.com/images/themes/theme1/bg.png", profile_background_image_url_https="https://abs.twimg.com/images/themes/theme1/bg.png", profile_background_tile=False, profile_image_url="http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", profile_image_url_https="https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", profile_link_color="1DA1F2", profile_sidebar_border_color="000000", profile_sidebar_fill_color="000000", profile_text_color="000000", profile_use_background_image=False, has_extended_profile=True, default_profile=False, default_profile_image=True, following=False, follow_request_sent=None, notifications=None, translator_type="none", withheld_in_countries=[]), geo=None, coordinates=None, place=None, contributors=None, is_quote_status=False, retweet_count=0, favorite_count=0, favorited=False, retweeted=False, lang="ja")       
+    PS C:\Users\masakinho\NLP100_knock> python restCrawler.py
+    {
+"created_at": "Wed Dec 01 06: 05: 39 +0000 2021",
+"id": 1465925037169717249,
+"id_str": "1465925037169717249",
+"text": "ジグザグすぎてレイテ 
+    ンシーが鳴ってる\u3000それが意外なハーモニーになってあまりにも不明瞭で不確実\u3000でもたまんないだから記念日と称してしまえ\u3000皮肉は却下 
+    だぜ、クワイエット風なんかは吹いてないのに何かが頬を通過したのは風なんかは吹いてないのに君の心に追いついたせいかな", "truncated": False, "entities": {"hashtags": [], "symbols": [], "user_mentions": [], "urls": []
+},
+"metadata": {
+"iso_language_code": "ja",
+"result_type": "recent"
+},
+"source": "<a href="http: //twittbot.net/" rel="nofollow">twittbot.net</a>", "in_reply_to_status_id": None, "in_reply_to_status_id_str": 
+    None,
+"in_reply_to_user_id": None,
+"in_reply_to_user_id_str": None,
+"in_reply_to_screen_name": None,
+"user": {
+"id": 1209959068808253440,
+"id_str": "1209959068808253440",
+"name": "ポンポン🐼",
+"screen_name": "pompompanda45",
+"location": "",
+"description": "パンダ🐼のポンポンが大
+    好きです❤️ よろしくお願いします🥺✨ 一人っ子のせいか、おっとりマイペースとよく言われます。", "url": None, "entities": {"description": {"urls 
+    ": []
+}
+},
+"protected": False,
+"followers_count": 467,
+"friends_count": 767,
+"listed_count": 0,
+"created_at": "Wed Dec 25 22: 08: 26 +0000 2019",
+"favourites_count": 28,
+"utc_offset": None,
+"time_zone": None,
+"geo_enabled": False,
+"verified": False,
+"statuses_count": 21606,
+"lang": None,
+"contributors_enabled": False,
+"is_translator": False,
+"is_translation_enabled": False,
+"profile_background_color": "F5F8FA",
+"profile_background_image_url": None,
+"profile_background_image_url_https": None,
+"profile_background_tile": False,
+"profile_image_url": "http: //pbs.twimg.com/profile_images/1209959249591197696/KygT4B2p_normal.jpg",
+"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209959249591197696/KygT4B2p_normal.jpg",
+"profile_link_color": "1DA1F2",
+"profile_sidebar_border_color": "C0DEED",
+"profile_sidebar_fill_color": "DDEEF6",
+"profile_text_color": "333333",
+"profile_use_background_image": True,
+"has_extended_profile": True,
+"default_profile": True,
+"default_profile_image": False,
+"following": None,
+"follow_request_sent": None,
+"notifications": None,
+"translator_type": "none",
+"withheld_in_countries": []
+},
+"geo": None,
+"coordinates": None,
+"place": None,
+"contributors": None,
+"is_quote_status": False,
+"retweet_count": 0,
+"favorite_count": 0,
+"favorited": False,
+"retweeted": False,
+"lang": "ja"
+}
